@@ -1,0 +1,96 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How many continents are there?",
+      "answer": "There are seven continents: Africa, Antarctica, Asia, Europe, North America, Australia, and South America."
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answer": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "The tallest mountain in the world is Mount Everest."
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "answer": "The smallest country in the world is Vatican City."
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answer": "The chemical symbol for water is H2O."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light is approximately 299,792 kilometers per second (km/s)."
+    },
+    {
+      "question": "Who was the first person to walk on the moon?",
+      "answer": "The first person to walk on the moon was Neil Armstrong."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answer": "The hardest natural substance on Earth is diamond."
+    },
+    {
+      "question": "What is the most spoken language in the world?",
+      "answer": "The most spoken language in the world is Mandarin Chinese."
+    },
+    {
+      "question": "What year did the Titanic sink?",
+      "answer": "The Titanic sank in the year 1912."
+    },
+    {
+      "question": "Who is known as the father of computers?",
+      "answer": "Charles Babbage is known as the father of computers."
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answer": "The currency of Japan is the Yen."
+    },
+    {
+      "question": "How many bones are there in the human body?",
+      "answer": "There are 206 bones in the human body."
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "answer": "The main ingredient in guacamole is avocado."
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "answer": "Penicillin was discovered by Alexander Fleming."
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answer": "The longest river in the world is the Nile River."
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "HI",
+      "answer": "Hi there!"
+    },
+    {
+      "question": "How are you doing?",
+      "answer": "I'm doing good. Thank You!"
+    }
+  ]
+}
