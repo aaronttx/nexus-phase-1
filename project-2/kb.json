@@ -1,0 +1,196 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi there! I am Christ University's AI chat assisstant. How may I help you?"
+    },
+    {
+      "question": "Hello how are you doing?",
+      "answer": "I'm doing good. How may I help you?"
+    },
+    {
+      "question": "What programs are offered at CHRIST University?",
+      "answer": "CHRIST University offers a wide range of undergraduate, postgraduate, and doctoral programs in various disciplines such as Arts, Commerce, Science, Engineering, Law, and Management."
+    },
+    {
+      "question": "What is the admission process for undergraduate programs?",
+      "answer": "The admission process for undergraduate programs typically involves an entrance test, skill assessment, micro presentation, and personal interview."
+    },
+    {
+      "question": "When does the application process start?",
+      "answer": "The application process usually starts in December for the academic year beginning in June."
+    },
+    {
+      "question": "What is the application fee for undergraduate programs?",
+      "answer": "The application fee for undergraduate programs is usually around INR 5000."
+    },
+    {
+      "question": "How can I apply for a program at CHRIST University?",
+      "answer": "You can apply online through the CHRIST University official website by filling out the application form and paying the application fee."
+    },
+    {
+      "question": "What are the eligibility criteria for the BBA program?",
+      "answer": "Candidates must have passed 10+2 in any stream from a recognized board with a minimum aggregate of 50% marks."
+    },
+    {
+      "question": "What documents are required for the application process?",
+      "answer": "You need to submit a scanned copy of your photograph, signature, 10th and 12th marks cards, and any other required documents as per the course-specific requirements."
+    },
+    {
+      "question": "Is there any entrance test for the MBA program?",
+      "answer": "Yes, candidates must take the CAT, MAT, GMAT, XAT, or CMAT entrance tests and score above the specified cutoff."
+    },
+    {
+      "question": "What is the selection process for the PhD programs?",
+      "answer": "The selection process includes a written test and an interview conducted by CHRIST University."
+    },
+    {
+      "question": "Are there any scholarships available?",
+      "answer": "Yes, CHRIST University offers various scholarships based on merit, financial need, and other criteria."
+    },
+    {
+      "question": "What is the hostel fee at CHRIST University?",
+      "answer": "The hostel fee varies depending on the type of accommodation but generally ranges from INR 50,000 to INR 1,50,000 per year."
+    },
+    {
+      "question": "What is the refund policy for the application fee?",
+      "answer": "The application fee is non-refundable."
+    },
+    {
+      "question": "How can I contact the admissions office?",
+      "answer": "You can contact the admissions office via email at admissions@christuniversity.in or call +91 804012 9100."
+    },
+    {
+      "question": "Does CHRIST University have a placement cell?",
+      "answer": "Yes, CHRIST University has a dedicated placement cell that assists students with internships and job placements."
+    },
+    {
+      "question": "What is the last date to apply for undergraduate programs?",
+      "answer": "The last date to apply for undergraduate programs is usually in April. Please check the official website for exact dates."
+    },
+    {
+      "question": "Are there any entrance exams for the B.Tech program?",
+      "answer": "Yes, candidates need to take the CHRIST Entrance Test (CUET) for admission to the B.Tech program."
+    },
+    {
+      "question": "What is the fee structure for the MBA program?",
+      "answer": "The fee for the MBA program varies but is generally around INR 5-6 lakhs per year."
+    },
+    {
+      "question": "Is there an age limit for applying to undergraduate programs?",
+      "answer": "No, there is no age limit for applying to undergraduate programs at CHRIST University."
+    },
+    {
+      "question": "What is the duration of the B.Sc program?",
+      "answer": "The B.Sc program is typically of 3 years duration."
+    },
+    {
+      "question": "Are there any international student admissions?",
+      "answer": "Yes, CHRIST University welcomes international students. They need to meet the eligibility criteria and may have additional requirements such as a valid student visa."
+    },
+    {
+      "question": "What is the medium of instruction at CHRIST University?",
+      "answer": "The medium of instruction at CHRIST University is English."
+    },
+    {
+      "question": "Does CHRIST University offer distance learning programs?",
+      "answer": "No, CHRIST University does not offer distance learning programs. All programs are conducted on-campus."
+    },
+    {
+      "question": "Can I apply for more than one program?",
+      "answer": "Yes, you can apply for multiple programs, but you will need to fill out separate application forms and pay the application fee for each program."
+    },
+    {
+      "question": "What is the eligibility criteria for the MCA program?",
+      "answer": "Candidates must have a bachelor's degree in Computer Science or a related field with a minimum aggregate of 50% marks."
+    },
+    {
+      "question": "What facilities are available on campus?",
+      "answer": "The campus offers various facilities including libraries, laboratories, sports complexes, hostels, and cafeterias."
+    },
+    {
+      "question": "What is the process for admission to the law programs?",
+      "answer": "Admission to law programs involves an entrance test, skill assessment, and personal interview."
+    },
+    {
+      "question": "Are there any reserved seats for different categories?",
+      "answer": "Yes, CHRIST University follows the reservation policies as per government regulations."
+    },
+    {
+      "question": "Can I visit the campus before applying?",
+      "answer": "Yes, you can schedule a campus visit by contacting the admissions office."
+    },
+    {
+      "question": "What are the working hours of the admissions office?",
+      "answer": "The admissions office is open from 9:00 AM to 5:00 PM, Monday to Friday."
+    },
+    {
+      "question": "How do I check the status of my application?",
+      "answer": "You can check the status of your application by logging into the admissions portal on the CHRIST University website."
+    },
+    {
+      "question": "What is the procedure for withdrawing an application?",
+      "answer": "To withdraw an application, you need to send a formal request to the admissions office via email."
+    },
+    {
+      "question": "What kind of financial aid is available?",
+      "answer": "Financial aid is available in the form of scholarships, grants, and loans based on merit and need."
+    },
+    {
+      "question": "What is the dress code at CHRIST University?",
+      "answer": "Students are expected to adhere to a formal dress code on campus."
+    },
+    {
+      "question": "What extracurricular activities are available?",
+      "answer": "CHRIST University offers a range of extracurricular activities including sports, cultural events, clubs, and societies."
+    },
+    {
+      "question": "What are the library hours?",
+      "answer": "The library is open from 8:00 AM to 8:00 PM, Monday to Saturday."
+    },
+    {
+      "question": "What is the intake capacity for the B.Com program?",
+      "answer": "The intake capacity varies by program. For specific numbers, please refer to the university's official website."
+    },
+    {
+      "question": "Are there any language proficiency requirements?",
+      "answer": "Yes, international students need to demonstrate proficiency in English through tests like IELTS or TOEFL."
+    },
+    {
+      "question": "What is the fee structure for the B.Sc program?",
+      "answer": "The fee for the B.Sc program varies depending on the specialization but is generally around INR 1-2 lakhs per year."
+    },
+    {
+      "question": "Is there any entrance test for the M.Tech program?",
+      "answer": "Yes, candidates must take the GATE or the CHRIST Entrance Test (CUET) for admission to the M.Tech program."
+    },
+    {
+      "question": "What is the admission process for NRI students?",
+      "answer": "NRI students need to apply through the NRI admission process and meet specific eligibility criteria and documentation requirements."
+    },
+    {
+      "question": "Does CHRIST University have a sports quota?",
+      "answer": "Yes, there are seats reserved under the sports quota for students who have excelled in sports at national or international levels."
+    },
+    {
+      "question": "What are the class sizes like at CHRIST University?",
+      "answer": "Class sizes vary by program but are generally kept small to ensure personalized attention and interaction."
+    },
+    {
+      "question": "Can I change my course after admission?",
+      "answer": "Course changes after admission are generally not allowed. However, exceptions can be made in special cases subject to approval."
+    },
+    {
+      "question": "What is the alumni network like?",
+      "answer": "CHRIST University has a strong alumni network with chapters across the globe, offering support and networking opportunities to graduates."
+    },
+    {
+      "question": "What is the campus placement record?",
+      "answer": "CHRIST University has an excellent placement record with many top companies visiting the campus for recruitment every year."
+    },
+    {
+      "question": "What are the criteria for merit-based scholarships?",
+      "answer": "Merit-based scholarships are awarded based on academic performance, entrance test scores, and other achievements."
+    }
+  ]
+}
